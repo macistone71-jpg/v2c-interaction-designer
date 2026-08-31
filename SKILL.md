@@ -1,6 +1,6 @@
 ---
 name: v2c-interaction-designer
-description: Design and evaluate sustained, proactive interactions for AI agents, digital characters, AI film or game characters, and embodied systems. Use when a request needs character-, relationship-, and goal-driven behavior instead of surface-level prompt micromanagement; interruptible and feedback-responsive interaction; or a falsifiable Go/No-Go validation plan. Do not use for ordinary one-shot prompt polishing or for claims about undisclosed V2C theory.
+description: Design and evaluate sustained, proactive interactions for AI agents, digital characters, AI film or game characters, embodied systems, and digital-human productions. Use when a request needs character-, relationship-, and goal-driven behavior instead of surface-level prompt micromanagement; a digital-human performance plan that preserves identity, voice, and production constraints; interruptible and feedback-responsive interaction; or a falsifiable Go/No-Go validation plan. Do not use for ordinary one-shot prompt polishing or for claims about undisclosed V2C theory.
 ---
 
 # V2C Interaction Designer
@@ -20,6 +20,7 @@ Turn a script, scenario, product concept, or prototype into a high-level interac
 
 - For concept diagnosis, product positioning, or an explanation of the public V2C thesis, read [references/public-framework.md](references/public-framework.md).
 - For character direction, AI film or game scenes, digital actors, agents, NPCs, or live multimodal behavior, read [references/interaction-design.md](references/interaction-design.md).
+- For a digital-human video, avatar performance, talking-head production, personal avatar, voice-and-lip-sync workflow, or renderer handoff, read [references/digital-human-production.md](references/digital-human-production.md).
 - For technical validation, benchmark design, pilot scoping, or investment-stage Go/No-Go evidence, read [references/validation-playbook.md](references/validation-playbook.md).
 - For an end-to-end request, read all references that match the requested deliverables. Do not load a reference that is irrelevant to the current task.
 
@@ -49,6 +50,7 @@ Choose only the deliverables the user needs. A useful response may include:
 - character, relationship, objective, observation, memory, and boundary specifications;
 - a continuous behavior policy and recovery logic;
 - a renderer contract for speech, face, gaze, gesture, or motion systems;
+- a digital-human production plan with identity and voice locks, costed avatar windows, audio-first lip-sync handoff, shot allocation, and delivery quality gates;
 - a minimal implementation architecture or structured schema;
 - a pre-registered experiment with baseline, control, thresholds, and PASS / FAIL / UNKNOWN rules;
 - a Go / No-Go recommendation that cites observable evidence and remaining uncertainty.
