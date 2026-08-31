@@ -1,0 +1,4 @@
+interface:
+  display_name: "V2C 持续交互设计"
+  short_description: "Design and validate sustained AI character interactions"
+  default_prompt: "Use $v2c-interaction-designer to turn this character or agent scenario into a sustained interaction design and a falsifiable validation plan."
